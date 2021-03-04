@@ -19,4 +19,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Project4\ear2.gcode">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="compiled.prg">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>
